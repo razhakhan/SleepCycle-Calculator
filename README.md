@@ -22,3 +22,9 @@ When we first fall asleep we enter non-rapid eye movement sleep (NREM). This is 
 Each sleep cycle lasts around one and a half hours, and in order to feel fully rested and refreshed when we wake up, we must experience all four stages. A full night’s sleep will include five or six cycles, while a disturbed, restless night consists of fewer.
 
 If you feel like four cycles is too little (six hours of sleep) but five cycles is too much (7.5 hours of sleep) then try to make sure you wake up in stage 1 or 2 of sleep which are lighter phases of sleep. These two stages will last no more than 30 minutes altogether.
+
+### Results:
+
+![Screenshot (298)](https://github.com/razhakhan/SleepCycle-Calculator/assets/65012840/17b10486-348a-4437-a76f-1e793a6541ad)
+![Screenshot (299)](https://github.com/razhakhan/SleepCycle-Calculator/assets/65012840/d1765de2-c806-4b7b-9b4a-a931ddc6615a)
+![Screenshot (300)](https://github.com/razhakhan/SleepCycle-Calculator/assets/65012840/a8f248da-3b42-4592-9121-4a03740489c7)
